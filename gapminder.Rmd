@@ -18,7 +18,7 @@ library(tidyverse)
 
 ## Load data
 
-```{r message = FALSE}
+```{r}
 gap <- read_csv("https://bit.ly/gap_data_upd")
 ```
 
